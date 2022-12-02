@@ -1,3 +1,15 @@
+.conta{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  background-color: #00796b;
+
+}
+.cl1{
+  background-color: #fafafa;
+  margin: 10%;
+  height: 50vh;
+  box-shadow:2px 2px 2px  #333 ;
+}
 .profile-pic {
   position: relative;
   max-width:130px;
