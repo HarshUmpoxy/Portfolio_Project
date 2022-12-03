@@ -1,3 +1,8 @@
+.image{
+  transform: rotate(-90deg);
+  /* transform: scale(1.2); */
+  margin-top: -5vh;
+}
 .conta{
   display: grid;
   grid-template-columns: 33% 33% 33%;
